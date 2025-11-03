@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "description": "User cannot log into the system.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-30T08:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment failed",
+    "description": "Payment gateway not responding.",
+    "customer": "Emily Clark",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-10-29T14:22:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Profile picture upload error",
+    "description": "Users cannot upload profile images.",
+    "customer": "David Smith",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-10-28T12:15:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Search not working",
+    "description": "Search filter returns empty results.",
+    "customer": "Sophia Lopez",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-27T09:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Slow dashboard",
+    "description": "Dashboard taking too long to load.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2025-10-26T11:20:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Email notifications missing",
+    "description": "No emails sent on ticket assignment.",
+    "customer": "Anna White",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-10-25T10:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "App crashes on startup",
+    "description": "Mobile app crashes after logo screen.",
+    "customer": "Chris Evans",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-10-24T15:10:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Dark mode not saving",
+    "description": "Theme preference resets on reload.",
+    "customer": "Rachel Green",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-10-23T08:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "API timeout errors",
+    "description": "API request timeout happens frequently.",
+    "customer": "Tony Stark",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-10-22T13:50:00Z"
+  },
+  {
+    "id": 10,
+    "title": "UI layout broken",
+    "description": "UI elements overlapping on small screens.",
+    "customer": "Bruce Wayne",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-10-21T17:40:00Z"
+  },
+  {
+    "id": 11,
+    "title": "File download corrupted",
+    "description": "Downloads are missing some data.",
+    "customer": "Natasha Romanoff",
+    "priority": "High",
+    "status": "Pending",
+    "createdAt": "2025-10-20T09:25:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Password reset not working",
+    "description": "Reset email not delivered to users.",
+    "customer": "Peter Parker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-10-19T14:05:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Analytics graph missing",
+    "description": "Charts not displayed on analytics page.",
+    "customer": "Clark Kent",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2025-10-18T16:18:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Multiple login sessions allowed",
+    "description": "Users can log in from unlimited devices.",
+    "customer": "Barry Allen",
+    "priority": "Medium",
+    "status": "In Review",
+    "createdAt": "2025-10-17T07:50:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Security vulnerability warning",
+    "description": "Security scan flagged potential issue.",
+    "customer": "Steve Rogers",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-10-16T10:30:00Z"
+  }
+]
