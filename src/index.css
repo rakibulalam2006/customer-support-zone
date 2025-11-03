@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.f-title{
+  @apply font-bold text-xl text-white;
+}
+
+.body{
+  @apply bg-gray-50
+}
